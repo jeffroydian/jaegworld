@@ -1,4 +1,4 @@
-baseURL = 'https:/jaeg.world/'
+baseURL = 'https://jaeg.world/'
 languageCode = 'en-us'
 title = 'jaegers music + blog'
 theme = 'hugo-bearblog'
