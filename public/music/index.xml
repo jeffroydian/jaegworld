@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on jaegers music &#43; blog</title>
-    <link>http://localhost:1313/music/</link>
+    <link>http://jaeg.world/music/</link>
     <description>Recent content in Music on jaegers music &#43; blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Mar 2025 15:05:29 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://jaeg.world/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apnea music video shoot</title>
-      <link>http://localhost:1313/music/my-first-post/</link>
+      <link>http://jaeg.world/music/my-first-post/</link>
       <pubDate>Sun, 30 Mar 2025 15:05:29 -0400</pubDate>
-      <guid>http://localhost:1313/music/my-first-post/</guid>
+      <guid>http://jaeg.world/music/my-first-post/</guid>
       <description>&lt;h2 id=&#34;music&#34;&gt;music!&lt;/h2&gt;&#xA;&lt;p&gt;this is music&lt;/p&gt;</description>
     </item>
   </channel>
