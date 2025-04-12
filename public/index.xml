@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jaegers music &#43; blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jaeg.world/</link>
     <description>Recent content on jaegers music &#43; blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Mar 2025 15:05:29 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jaeg.world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apnea music video shoot</title>
-      <link>http://localhost:1313/blog/my-first-post/</link>
+      <link>https://jaeg.world/blog/my-first-post/</link>
       <pubDate>Sun, 30 Mar 2025 15:05:29 -0400</pubDate>
-      <guid>http://localhost:1313/blog/my-first-post/</guid>
+      <guid>https://jaeg.world/blog/my-first-post/</guid>
       <description>&lt;p&gt;i shot this music video with a few of my friends in a small town outside of toronto! it was super fun and cool to drive around in my friends truck and get some weird shots.&#xA;i really like the thermal editing and i think its pretty wacky&lt;/p&gt;</description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/music/</link>
+      <link>https://jaeg.world/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/music/</guid>
+      <guid>https://jaeg.world/music/</guid>
       <description>&lt;p&gt;&lt;strong&gt;300 worms - 10 track album by jaeger&lt;/strong&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Yxe1l1CfgLA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;iframe src=&#34;https://open.spotify.com/embed/album/0cBRDpHVEkzRJuAVYLvruZ&#34;&#xD;&#xA;    width=&#34;100%&#34;&#xD;&#xA;    height=&#34;250&#34;&#xD;&#xA;    frameborder=&#34;0&#34;&#xD;&#xA;    allowtransparency=&#34;true&#34;&#xD;&#xA;    allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Store</title>
-      <link>http://localhost:1313/store/</link>
+      <link>https://jaeg.world/store/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/store/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/IMG_0588.JPG&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;jaeg.world T-shirt&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;a href=&#34;https://jaegerv.bandcamp.com/merch/jaeg-world-t-shirt&#34;&gt;jaeg.world T-shirt&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://jaeg.world/store/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://jaeg.world/images/IMG_0588.JPG&#34; width=&#34;400&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;jaeg.world T-shirt&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;a href=&#34;https://jaegerv.bandcamp.com/merch/jaeg-world-t-shirt&#34;&gt;jaeg.world T-shirt&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
