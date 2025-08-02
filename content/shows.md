@@ -3,7 +3,7 @@ title = "Shows"
 menu = "main"
 +++
 
-Toronto The Baby G August 9th 2025 
+Toronto The Baby G August 9th 2025 [Tickets](https://dice.fm/partner/dice/event/nvol35-lulu-lamontagne-jaeger-spins-tiger-tag-9th-aug-the-baby-g-toronto-tickets?dice_id=6642539&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1431698938636452968&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9Ktky0TDSwNDFPSbOvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQBpMSIvOwAAAA%3D%3D)
 
 {{< figure src="/images/babygaugust9.jpg" width="400">}}
 
