@@ -3,6 +3,9 @@ title = "Shows"
 menu = "main"
 +++
 
+Toronto The Baby G August 9th 2025 
+
+{{< figure src="/images/babygaugust9.jpg" width="400">}}
 
 ~~Toronto Houndstooth July 11th 2025 PWYC/FREE SHOW ~~
 
