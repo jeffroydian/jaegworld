@@ -7,7 +7,7 @@ Toronto The Baby G August 9th 2025
 
 {{< figure src="/images/babygaugust9.jpg" width="400">}}
 
-~~Toronto Houndstooth July 11th 2025 PWYC/FREE SHOW ~~
+~~Toronto Houndstooth July 11th 2025 PWYC/FREE SHOW~~
 
 {{< figure src="/images/IMG_5626.jpg" width="400">}}
 poster by [nik october](https://nikoctober.com/)
