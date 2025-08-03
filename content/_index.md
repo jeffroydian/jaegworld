@@ -27,4 +27,3 @@ welcome to my website! you can find my [music](/music), my [merch](/store) and [
 
 
 
-{{< figure src="/images/email.gif" width="200">}}
